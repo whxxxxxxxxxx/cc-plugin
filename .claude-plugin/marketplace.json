@@ -1,0 +1,13 @@
+{
+  "name": "cc-plugin",
+  "owner": {
+    "name": "cc-plugin"
+  },
+  "plugins": [
+    {
+      "name": "memory-manager",
+      "source": "./memory-manager",
+      "description": "Claude Code 记忆管理插件 - 用于创建、加载、合并和升级记忆文件"
+    }
+  ]
+}
